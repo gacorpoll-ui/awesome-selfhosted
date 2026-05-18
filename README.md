@@ -1525,6 +1525,7 @@ _Related: [Inventory Management](#inventory-management), [Resource Planning](#re
 - [Wallos](https://wallosapp.com) - Lightweight personal subscription tracker with statistics and optional notifications. ([Demo](https://github.com/ellite/wallos?tab=readme-ov-file#demo), [Source Code](https://github.com/ellite/wallos)) `GPL-3.0` `PHP/Docker`
 - [WYGIWYH](https://github.com/eitchtee/WYGIWYH) - Simple and powerful finance tracker. ([Demo](https://wygiwyh-demo.herculino.com/)) `AGPL-3.0` `Docker/Python`
 - [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code](https://github.com/kantorge/yaffa)) `MIT` `PHP`
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Self-hosted Proof-of-Antiquity blockchain. Mine RTC tokens on vintage hardware. ([Source Code](https://github.com/Scottcjn/Rustchain)) `MIT` `Rust`
 
 
 ### Monitoring & Status Pages
